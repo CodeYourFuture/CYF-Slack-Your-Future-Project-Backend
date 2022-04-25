@@ -85,7 +85,7 @@ Fetch Channels
 
 - **Result:**
   
-    ```
+    ```json
     [
       {
         "name": "Awesome Channel",
@@ -118,7 +118,7 @@ Fetch Channel
 
 - **Result:**
   
-    ```
+    ```json
     {
       "name": "Awesome Channel",
       "id": "ZAE12E124321ZE"
@@ -148,7 +148,7 @@ Delete Channel
 
 - **Result:**
   
-    ```
+    ```json
     { 
       "message": "Channel ZAE12E124321ZE was successfully deleted!"
     }
@@ -177,7 +177,7 @@ Update Channel
 
 - **Body**
 
-   ```
+   ```json
    {
      "name": "new name of the channel",
      "id": "the channel id"
@@ -186,7 +186,7 @@ Update Channel
 
 * **Result:**
   
-    ```
+    ```json
     {
       "name": "Awesome Channel",
       "id": "ZAE12E124321ZE"
@@ -210,7 +210,7 @@ Create Channel
   
 - **Body**
 
-   ```
+   ``` json
    {
      "name": "the name of the channel you wish to create",
    }
@@ -218,7 +218,7 @@ Create Channel
 
 - **Result:**
   
-    ```
+    ```json 
     {
       "name": "Awesome Channel",
       "id": "ZAE12E124321ZE"
@@ -244,7 +244,7 @@ Get all messages
 
 - **Result:**
   
-    ```
+    ```json
     [
     {
       "text": "The content of the massage",
@@ -278,7 +278,7 @@ Get all messages
    `channelId=[integer]`
 - **Result:**
   
-    ```
+    ```json
     [
     {
       "text": "The content of the massage",
@@ -312,7 +312,7 @@ Get all messages
    `messageId=[integer]`
 - **Result:**
   
-    ```
+    ```json
     {
       "message": "Message BFE12E1243211ZE was successfully deleted!"
     }
@@ -341,7 +341,7 @@ Get all messages
 
 - **Body**
 
-   ```
+   ```json
    {
       "text": "The content of the massage",
       "id": "BFE12E1243211ZE",
@@ -353,7 +353,7 @@ Get all messages
 
 - **Result:**
   
-    ```
+    ```json
     {
       "text": "The content of the massage",
       "id": "BFE12E1243211ZE",
@@ -386,7 +386,7 @@ Get all messages
 
 - **Body**
 
-   ```
+   ```json
    {
       "text": "The content of the massage",
       "user": "Name of the user who posted the message",
@@ -395,7 +395,7 @@ Get all messages
 
 - **Result:**
   
-    ```
+    ```json
     {
       "text": "The content of the massage",
       "id": "BFE12E1243211ZE",
@@ -403,5 +403,5 @@ Get all messages
       "date": "2021-08-13T18:25:43.511Z",
       "channelId": "ZAE12E124321ZE"
     }
-```
-</detail>
+    ```---
+</details>
