@@ -49,7 +49,7 @@ This assessment point will be reviewed based on your overall interactions since 
   </details>
 <details><summary> Project- idea (Slack-clone) </summary>
 
-The application will allow registered users to login and see and receive messages.
+ This project's goal is to reconstract a fully-functional Slack-Clone By using the base HTML/css code .The application will allow registered users to login and see and receive messages.
 
 A message can contain a link to an external platform, an Image and rich text. Users should always be able to see when a message was sent.
 
