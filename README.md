@@ -2,8 +2,6 @@
 
 In this project, you will show the skills you have learned until now.You will also be able to receive your assessments based on your hard and soft skills.
 
- 
-
  <details><summary>Assessment points (hard skill) </summary>
 The hard skill assessment will review on what you have accomplished on this project based on the deliverables that are set under.
 
@@ -49,7 +47,9 @@ This assessment point will be reviewed based on your overall interactions since 
 
 🥚 retrospective deliverables : you have submitted your retrospective for each module on your personal repo
   </details>
-<details><summary> Project- idea (Slack-clone) </summary>The application will allow registered users to login and see and receive messages.
+<details><summary> Project- idea (Slack-clone) </summary>
+
+The application will allow registered users to login and see and receive messages.
 
 A message can contain a link to an external platform, an Image and rich text. Users should always be able to see when a message was sent.
 
@@ -57,6 +57,21 @@ Messages can be send one-to-one in a direct conversation from a sender to a rece
 
 The idea is that the user will see a list of all direct messages addressed to them, but also an overview of all channels so he can follow up on the discussions in there. Messages in private conversations and messages in group have the same functionality.
 </details>
+
+---
+
+## Few tips to follow
+
+* **start with wireframe** :whether you are working on the UI or on the data design, it is a good to know where you want to end up to. Design your wireframe and data-model first.
+
+* **Start small**: start your coding journey from the smallest component you think of. this can be only connecting the pages that you are going to design and increment your work step by step.
+
+* **One feature one pull request**: by keeping your feature branch as specific as possible, you will save time from uncessary conflicts and errors
+
+* **Don't rush, understand!**: like we always say,It's better to study slowly and learn from your mistakes than to code quickly and not understand what you wrote.
+
+Please read  [HYF-way of learning](https://hackyourfuture.github.io/study/#/learning/learning-from-code?id=don39t-rush-understand) for more **effective learning**
+
 
 ## Using the app
 
