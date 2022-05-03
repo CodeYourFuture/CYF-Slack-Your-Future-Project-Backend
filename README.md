@@ -64,7 +64,7 @@ The idea is that the user will see a list of all direct messages addressed to th
 
 * **start with wireframe** :whether you are working on the UI or on the data design, it is a good to know where you want to end up to. Design your wireframe and data-model first.
 
-* **Start small**: start your coding journey from the smallest component you think of. this can be only connecting the pages that you are going to design and increment your work step by step.
+* **Start small**: start your coding journey from the smallest component you think of. This can be only connecting the pages that you are going to design and increment your work step by step.
 
 * **One feature one pull request**: by keeping your feature branch as specific as possible, you will save time from uncessary conflicts and errors
 
