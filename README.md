@@ -19,9 +19,10 @@ The hard skill assessment will review on what you have accomplished on this proj
 
 🐣 Testing Existing Functions: You can write unit tests for a working function using the describe/it/expect(_).toEqual(_) syntax. This includes grouping test cases into logical test suites.
 
-🐣 You can write small programs with a Data Access layer that asynchronously uses data stored in different locations:
+🐣 You can write small programs with a good component-based design that asynchronously uses data stored in different locations:
 • Browser: You can write a small web page that fetches data from a RESTful API and renders it into the DOM.
-🐣design, plan, build small web page using React that fetches data from an API
+
+🐣 design, plan, build small web page using React that fetches data from an API
   </details>
 
 
