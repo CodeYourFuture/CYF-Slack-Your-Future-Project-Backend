@@ -4,9 +4,9 @@
 1. user can see all channels
 2. user can add new channel
 3. user can see other users( user can see who send the message)
-4. user can see a message with a time stomp
-5. user can send a message 
-6. user can set its user name
+4. user can see a message with a time stamp
+6. user can send a message 
+7. user can set its user name
 
 # should haves
 
