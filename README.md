@@ -1,8 +1,8 @@
-# individual-project
+# Slack Your Future Project : Back End
 
-In this project, you will show the skills you have learned until now.You will also be able to receive your assessments based on your hard and soft skills.
+In this project, you will have the opportunity to demonstrate the listed skills. 
 
- <details><summary>Assessment points (hard skill) </summary>
+ <details><summary>Learning Outcomes</summary>
 The hard skill assessment will review on what you have accomplished on this project based on the deliverables that are set under.
 
 🥚 Git Remote/Local Connection: You can create a local git repository, commit changes, connect a remote repository and push changes to the remote.
@@ -26,10 +26,8 @@ The hard skill assessment will review on what you have accomplished on this proj
   </details>
 
 
-<details><summary>Assessment points (soft skill)</summary>
-This assessment point will be reviewed based on your overall interactions since the start of the class.
-
-🥚code reviews : the following requirements have been addressed with your PRs to the home repo for each assignment
+<details><summary>What else to demonstrate?</summary>
+🥚code review deliverables : your PRs meet these standards:
 
     • PR has a descriptive title
     • PR has appropriate labels and milestones for easy identification
@@ -40,23 +38,18 @@ This assessment point will be reviewed based on your overall interactions since 
     • is linked to an issue
     • feedback is addressed (if any)
 
-🥚 home work submission status: You have completed and submitted all assignments for each module (vocabulary, snippets, group or individual projects….)
 
-🥚check-in status: you have submitted your check-ins for each module chapter
-
-🥚class and workshop attendance status : you have been present for each class and workshop in person or online .
-
-🥚 retrospective deliverables : you have submitted your retrospective for each module on your personal repo
+🥚 retrospective deliverables : you have shared your retrospective for each sprint on your project
   </details>
 <details><summary> Project- idea (Slack-clone) </summary>
 
- This project's goal is to reconstract a fully-functional Slack-Clone By using the base HTML/css code .The application will allow registered users to login and see and receive messages.
+Your goal is to build a Slack clone. You will use the base HTML/CSS code supplied. The application will allow registered users to login and send and receive messages.
 
-A message can contain a link to an external platform, an Image and rich text. Users should always be able to see when a message was sent.
+### Messaging
+- [ ] Messages can contain a link to an external platform, an image, and rich text. 
+- [ ] Messages can be sent one-to-one in a direct conversation from a sender to a receiver
+- [ ] Messages can be sent to channel in order to support group discussions. Such a channel will always have name, and a list of members.
 
-Messages can be send one-to-one in a direct conversation from a sender to a receiver, but it is also possible to start a channel in order to support group discussions. Such a channel will always have name, and a list of members.
-
-The idea is that the user will see a list of all direct messages addressed to them, but also an overview of all channels so he can follow up on the discussions in there. Messages in private conversations and messages in group have the same functionality.
 </details>
 
 ---
@@ -71,7 +64,6 @@ The idea is that the user will see a list of all direct messages addressed to th
 
 * **Don't rush, understand!**: like we always say,It's better to study slowly and learn from your mistakes than to code quickly and not understand what you wrote.
 
-Please read  [HYF-way of learning](https://hackyourfuture.github.io/study/#/learning/learning-from-code?id=don39t-rush-understand) for more **effective learning**
 
 
 ## Using the app
